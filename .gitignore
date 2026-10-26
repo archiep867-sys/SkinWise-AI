@@ -1,0 +1,4 @@
+.env\n.venv/\nvenv/\n__pycache__/\n.pytest_cache/\n*.py[cod]\n.DS_Store\n.streamlit/secrets.toml\n# Local user journal database; never commit personal entries
+*.db
+*.sqlite
+*.sqlite3

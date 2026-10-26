@@ -1,4 +1,16 @@
-.env\n.venv/\nvenv/\n__pycache__/\n.pytest_cache/\n*.py[cod]\n.DS_Store\n.streamlit/secrets.toml\n# Local user journal database; never commit personal entries
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+*.py[cod]
+.DS_Store
+.streamlit/secrets.toml
+
+# Local user journal databases
 *.db
 *.sqlite
 *.sqlite3
+
+# Downloaded project archives
+SkinWise-AI-Download.zip
